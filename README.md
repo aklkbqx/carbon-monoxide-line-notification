@@ -1,6 +1,5 @@
 # 🌬️ CARBON MONOXIDE ESP32 MQ7 LCD LINE NOTIFICATION
 
-[![Arduino](https://img.shields.io/badge/Framework-Arduino-teal?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
 [![ESP32](https://img.shields.io/badge/Device-ESP32-red?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
 [![PlatformIO](https://img.shields.io/badge/IDE-PlatformIO-orange?style=for-the-badge&logo=platformio)](https://platformio.org/)
 [![LINE](https://img.shields.io/badge/Notification-LINE-green?style=for-the-badge&logo=line)](https://developers.line.biz/)
